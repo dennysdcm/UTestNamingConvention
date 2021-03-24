@@ -1,1 +1,1 @@
-# UTestNamingConvention
+# Unit Tests Naming Convention
