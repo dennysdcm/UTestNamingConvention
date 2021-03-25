@@ -1,3 +1,8 @@
 # Unit Tests Naming Convention
 
-dotnet project to review some unit test naming conventions.
+dotnet c# project to review some unit test naming conventions.
+
+# Usage
+```sh
+dotnet test
+```
