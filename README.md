@@ -3,12 +3,12 @@
 dotnet c# project to review some unit test naming conventions.
 
 # Usage
-Build solution:
+Build the solution:
 ```sh
 dotnet build
 ```
 
-Run unit test:
+Run unit tests:
 ```sh
 dotnet test
 ```
